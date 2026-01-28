@@ -45,7 +45,6 @@ HTML5: Semantic web structure.
 CSS3: Flexbox layout, Absolute Positioning, and CSS Transitions for smooth animations.
 
 JavaScript (ES6+): DOM Manipulation, Event Listeners, and element coordinate calculation logic.
-
 📸 Screenshots
 <img width="590" height="248" alt="image" src="https://github.com/user-attachments/assets/b9b9373d-b97f-4397-b2fb-79861ae27779" />
 <img width="674" height="243" alt="image" src="https://github.com/user-attachments/assets/5188a990-69a0-40d5-91e3-2d12c57ce4d1" />
