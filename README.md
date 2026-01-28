@@ -4,7 +4,6 @@
 
 Tab UI: Hệ thống chuyển đổi tab mượt mà với hiệu ứng thanh trượt thông minh.
 
-Music Player Interface: Giao diện phát nhạc hiện đại được lấy cảm hứng từ các ứng dụng streaming phổ biến, tối ưu hóa cho trải nghiệm người dùng.
 
 🚀 Tính năng nổi bật
 Chuyển đổi Tab động: Thay đổi nội dung hiển thị tương ứng khi nhấn vào các tiêu đề Tab (React, Angular, Ember, Vue).
@@ -13,7 +12,6 @@ Thanh trượt thông minh (Smart Line): Thanh chỉ báo dưới mỗi tab tự
 
 Tương thích màn hình (Responsive Design): Xử lý sự kiện window.onresize để đảm bảo thanh trượt luôn nằm đúng vị trí khi người dùng thay đổi kích thước trình duyệt hoặc đóng/mở DevTools.
 
-Giao diện phát nhạc hiện đại: Sử dụng CSS nâng cao (Flexbox, RGBA, Border-radius) để tạo ra các nút điều khiển và đĩa nhạc đẹp mắt.
 
 🛠 Công nghệ sử dụng
 HTML5: Cấu trúc ngữ nghĩa cho trang web.
@@ -28,7 +26,6 @@ This is a Frontend practice project focused on building user interfaces (UI) and
 
 Tab UI: A smooth tab switching system with a smart sliding underline effect.
 
-Music Player Interface: A modern music player UI inspired by popular streaming apps, optimized for user experience.
 
 🚀 Key Features
 Dynamic Tab Switching: Displays corresponding content when clicking on Tab items (React, Angular, Ember, Vue).
@@ -37,7 +34,7 @@ Smart Indicator Line: An underline indicator that automatically calculates its l
 
 Responsive Handling: Listens to the window.onresize event to ensure the indicator line stays perfectly aligned even when the browser is resized or DevTools is toggled.
 
-Modern Music UI: Utilizes advanced CSS (Flexbox, RGBA, Border-radius) to create aesthetically pleasing controls and album art displays.
+
 
 🛠 Tech Stack
 HTML5: Semantic web structure.
